@@ -1,1 +1,2 @@
-# stable-cascade-webui
+# Stable Cascade WebUi
+A browser interface for Stable Cascade.
